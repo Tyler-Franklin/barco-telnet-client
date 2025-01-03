@@ -1,0 +1,23 @@
+{
+    "name": "barco_telnet",
+    "version": "0.1.0",
+    "description": "Barco projector communication via telnet",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Tyler-Franklin/barco-telnet-client.git"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "barco",
+        "projector",
+        "telnet"
+    ],
+    "author": "Tyler-Franklin",
+    "license": "MIT"
+}
